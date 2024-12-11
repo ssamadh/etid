@@ -1,0 +1,1 @@
+var pixelRatio = window.devicePixelRatio;
